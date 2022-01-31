@@ -68,7 +68,7 @@ section.transp {
 
 article.box {
     background-color: rgba(0, 0, 0, 0.336);
-    width: 45vw;
+    width: 48vw;
 }
 
 article p {
@@ -97,5 +97,5 @@ footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-align: center;
-
+    font-size: 1vw;
 }
