@@ -25,7 +25,6 @@ div#container2{
 
 header {
     background-color: black;
-    min-height: 150px;
     
 }
 
@@ -34,14 +33,15 @@ h1 {
     color: white;
     text-align: center;
     font-size: 8.30vw;
-    padding-top: 5%;
+    padding-top: 45px;
+    font-variant: small-caps;
 }
 
 header p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 45px;
 }
 
 section {
